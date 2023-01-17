@@ -1,0 +1,181 @@
+.navbar-brand{
+    font-family: 'lobster';
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.nav-item{
+    font-family: 'montserrat';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+}
+
+.nav-item .nav-link.active{
+    font-weight: 700;
+    color:pink !important;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+.nav-link:hover{
+    color:pink !important;
+}
+
+/* Hero Section */
+.hero-section {
+    background-color: rgb(187, 88, 105);
+}
+
+.hero-section h1 {
+    font-family: 'montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.hero-section p {
+    font-family: 'montserrat';
+    font-style: italic;
+    font-size: 18px;
+    
+}
+
+.hero-section img {
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: inherit;
+}
+
+.hero-section .btn{
+    font-family:'unbounded';
+    font-style: normal;
+    font-size: 15px;
+    border-radius: 18px 18px 18px 18px;
+    margin-top: 80px;
+}
+
+/* Tutup Hero Section */
+
+/* Superiority */
+.categories-products{
+    font-family: 'unbounded';
+    font-style: normal;
+    font-size: 80px;
+    padding-top: 50px;
+}
+
+.component-products{
+    margin-top: 50px;
+    margin-bottom: 36px;
+}
+
+
+.products-text h1 {
+    font-family: 'merriweather';
+    font-size: 25px;
+    text-align: center;
+
+    color: black;
+
+}
+
+.products-text p {
+    font-family: 'merriweather';
+    font-size: 15px;
+    text-align: center;
+
+    color: black;
+}
+/* Tutup Categories */
+
+/* Best seller product */
+
+.best-products{
+    font-family: 'unbounded';
+    font-style: normal;
+    font-size: 80px;
+    padding-top: 50px;
+    margin-bottom: 20px;
+    background:rgb(187, 88, 105);
+}
+
+.component-best{
+    margin-top: 50px;
+    margin-bottom: 36px;
+}
+
+    
+.btn-block{
+    font-family:'unbounded';
+    font-style: normal;
+    font-size: 15px;
+    border-radius: 18px 18px 18px 18px;
+}
+
+/* Tutup Best seller product */
+
+/* Footer */
+.footer{
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: lightpink;
+}
+
+.footer h2{
+    margin-bottom: 0;
+    font-family: 'rancho';
+    font-weight: 500;
+    font-size: 45px;
+    text-transform: uppercase;
+
+    color: #000;
+}
+
+.footer h5{
+    font-family: 'merriweather';
+    font-weight: 500;
+    font-size: 18px;
+
+    color: black;
+}
+
+
+.footer p{
+    font-family: 'merriweather';
+    font-weight: 300;
+    font-size: 15px;
+
+    color: #000;
+}
+
+.footer-small{
+    background-color: pink;
+    text-align: center;
+}
+
+.footer-small p{
+    font-family: 'merriweather';
+    font-weight: 500;
+    font-size: 16px;
+
+    margin-top: 30px;
+    
+    color: #fff;
+}
+
+.footer-small a{
+    font-weight: 500;
+    font-size: 16px
+    
+    text-decoration: none;
+
+    color:dark grey;
+}
+/* Tutup Footer */
